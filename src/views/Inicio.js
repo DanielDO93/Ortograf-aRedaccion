@@ -19,8 +19,8 @@ import TemaDiezView from './temarioViews/TemaDiezView'
 import TemaOnceView from './temarioViews/TemaOnceView'
 import TemaDoceView from './temarioViews/TemaDoceView'
 import TemaTreceView from './temarioViews/TemaTreceView'
-import DespedidaView from './temarioViews/DespedidaView'
-import Actividad1View from './temarioViews/Actividad1View'
+//import DespedidaView from './temarioViews/DespedidaView'
+//import Actividad1View from './temarioViews/Actividad1View'
 
 //import RecapitulacionView from './temarioViews/RecapitulacionView'
 
