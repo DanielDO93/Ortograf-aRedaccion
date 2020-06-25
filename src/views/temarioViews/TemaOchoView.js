@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { CardBody, Col, Row, CardHeader } from 'reactstrap'
-import ocho from '../../assets/img/ImgRedaccion/ocho.jpg'
+
 
 class TemaOchoView extends Component {
   loading = () => (
