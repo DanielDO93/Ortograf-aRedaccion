@@ -12,23 +12,48 @@ export default {
     },
 
     {
-      name: '¿QUÉ ES LA ERGONOMETRIA? ',
+      name: 'Actividad      ',
       icon: 'icon-tag',
       
     },
 
     {
-      name: '¿POR QUE DEBEMOS CONOCERLA? ',
+      name: '¿Qué es la ortografía?      ',
       icon: 'icon-tag',
      
     },
     {
-      name: 'RECOMENDACIONES',
+      name: 'Importancia de la ortografía      ',
       icon: 'icon-tag',
      
     },
     {
-      name: 'CONCLUSIÓN',
+      name: '  Importancia de la acentuación en los apellidos y nombres propios      ',
+      icon: 'icon-tag',
+     
+    },
+    {
+      name: ' Uso de la “B”  y    “C”   ',
+      icon: 'icon-tag',
+     
+    },
+    {
+      name: 'Uso de la “V” Y  “B”       ',
+      icon: 'icon-tag',
+     
+    },
+    {
+      name: 'Uso de la “C” “S”     ',
+      icon: 'icon-tag',
+     
+    },
+    {
+      name: 'Uso de la  “Z”   ',
+      icon: 'icon-tag',
+     
+    },
+    {
+      name: ' ',
       icon: 'icon-tag',
      
     },
